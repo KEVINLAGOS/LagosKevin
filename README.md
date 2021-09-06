@@ -1,3 +1,3 @@
 # Topicos-Avanzados
-**Nombre del alumno:Kevin Otoniel Lagos Hilario**  
-**Numero de control:19100202**
+_**Nombre del alumno:Kevin Otoniel Lagos Hilario**_  
+_**Numero de control:19100202**_
